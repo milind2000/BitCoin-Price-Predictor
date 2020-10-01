@@ -12,4 +12,11 @@ Using Deep Learning approach to predict the cryptocurrency prices.
 * [Link1](https://towardsdatascience.com/using-machine-learning-to-predict-future-bitcoin-prices-6637e7bfa58f?gi=be2f3d612733)
 * [Link2](https://www.youtube.com/watch?v=EqWm8A-dRYg)
 * [Link3](https://github.com/topics/bitcoin-price-prediction)
-* [Link4](https://youtu.be/G5Mx7yYdEhE) 
+
+## Issue List
+* Importing Libraries
+* Importing Dataset(Dataset is uploaded on github)
+* Data Preprocessing(Prepare the data)
+* Visualization the data using graphs and plots
+* Build the Model(Train Model)
+* Predict the Prices
